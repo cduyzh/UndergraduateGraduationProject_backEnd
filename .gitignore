@@ -1,0 +1,22 @@
+.DS_Store
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+local_tools/
+log/
+/server/data/tmp
+/server/data/compiletmp
+/server/data/uploadtmp
+/server/data/uploadimg
+/server/data/sessions
+/server/data/faqlist.json
+/server_config.js
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+.vscode/
